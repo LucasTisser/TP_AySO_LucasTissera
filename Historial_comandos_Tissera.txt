@@ -1,0 +1,399 @@
+nnnsdsapwdppps
+iitllll 
+uuq
+ls¿kklslasdlll
+sudapintalre
+as nnsss
+sulslsllllllas
+rettttttttttttttrettsedre
+cacccac
+hostnamectl --help
+hostnamectl status
+hostnamectl hostname
+localectl --help
+passwd --help
+man passwd
+sudo mandb
+pdw
+lssudo apt update
+sudo apt update
+su
+a
+sudo apt install tree
+lslsls
+ls
+TREE
+treetree
+tree
+mkdir
+cat > archivo.txt
+cat archivo.txt
+cat etc/passwd
+cat etc/passwd nombre de usuario
+clear
+cat etc/passwd
+ls
+pwd
+$home
+ls
+tree
+mkdir
+mkdir SoyUnaCarpeta
+ls
+cd Soyunacarpeta
+cd SoyUnaCarpeta
+ls
+rm
+rm SoyUnaCarpeta
+cd ..
+rm SoyUnaCarpeta
+ls
+rm /SoyUnaCarpeta
+rm SoyUnaCarpeta
+rm -r SoyUnaCarpeta
+ls
+rm archivo.txt
+ls
+cat etc/passwd
+ls
+pwd
+cd home
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd c
+cd home
+ls
+cd vagrant
+ls
+cat > archivo.txt
+ls
+cat etc/passwd archivo.txt
+cat etc/passwd
+cat archivo.txt
+cat etc/passwd
+pwd
+cd vagrant
+sudo -i
+
+ls
+cat archivo.txt
+ssh-keygen
+pwd
+ls -la
+cd .ssh
+ls -la
+cat id_rsa.pub
+ls -la
+cd .ssh
+ls -la
+cat id_rsa.pub
+cl
+cls
+clear
+ls -la
+cat id_rsa.pub
+sudo apt install git
+git -v
+git --v
+git --version
+git clone git@github.com:LucasTisser/VagrantPrueba.git
+ls -la
+cd ..
+ls -la
+ls
+pwd
+cd ..
+ls
+pwd
+cd vagrant
+ls -la
+cd .ssh
+ls -la
+cd vagrantPrueba
+git status
+cd ..
+ls -la
+git status
+cd .ssh
+ls -la
+cd ..
+ls
+cd carpeta_compartida
+ls
+cd ..
+ls -la
+ls
+sudo adduser nombre_usuario
+ls -la
+sudo adduser LucasT
+sudo adduser lucast
+ls
+su - lucast
+ñs
+ls
+ls -la
+cd profile
+cd .profile
+cd carpeta_compartida
+ls
+cd ..
+ls
+ls -la
+cd .profile
+cd .ssg
+cd .ssh
+ls
+exit
+pwd
+ls -la
+cd .ssh
+ls -la
+cat id_rsa.pub
+pwd
+cd ..
+pwd
+git clone git@github.com:LucasTisser/TP_AySO_LucasTissera.git
+ls
+ls -la
+cd TP_AySO_LucasTissera
+ls
+ls -la
+rm -rf TP_AySO_LucasTissera
+cd ..
+ls
+rm -rf TP_AySO_LucasTissera
+ls -la
+cd .ssg
+cd .ssh
+ls -la
+cd ..
+pwd
+mkdir repogit
+ls
+cd repogit
+ls
+pwd
+git clone git@github.com:LucasTisser/TP_AySO_LucasTissera.git
+ls -la
+cd TP_AySO_LucasTissera
+pwd
+cd ..
+pwd
+ls
+cd repogit
+cd TP_AySO_LucasTissera/
+ls
+ls -l
+cd ..
+ls -l
+ls -la
+cat /etc/os-release
+grep
+man grep
+man --i
+pwd
+ls -la
+grep HOME_URL
+ls
+cd repogit
+ls
+cd TP_AySO_LucasTissera/
+ls
+pwd
+man grep
+grep -i
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+grep -i Home_url /etc/os-release
+grep -i Home_url /etc/os-release > datos_url.txt
+whoami
+ls
+ls -la
+touch datos_usuario.txt
+ls
+cat datos_usuario.txt
+touch datos_usuario.txt
+ls 
+cat > datos_usuario.txt
+whoami
+echo “Usuario=$(whoami)” > datos_usuario.txt
+ls
+cat datos_usuario.txt
+clear
+pwd
+ls -la
+cat datos_usuario.txt
+git add .
+git status
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuario.txt"
+git status
+git push
+ls -la
+cd ..
+ls -la
+cd ..
+ls -la
+pwd
+cd ..
+ls -la
+pwd
+cd ..
+ls -la
+cd proc
+ls -la
+grep cpuinfo
+grep
+tail -n1
+grep -i cpuinfo
+cat cpuinfo
+ls
+cd repogit
+cd ..
+ls
+cd repogit
+ls
+cd TP_AySO_LucasTissera/
+ls
+cat datos_usuario.txt 
+cd ..
+ls -la
+cd ..
+ls
+pwd
+ls -la
+cd ..
+pwd
+ls -la
+cd proc
+ñs
+ls
+grep cpuinfo
+grep -i cpuinfo
+grep -i cpuinfo proc
+pwd
+ls -la
+ps aux | grep cpuinfo
+grep cpuinfo
+cd cpuinfo
+cat cpuinfo
+grep "model_name" cpuinfo
+grep "model name" cpuinfo
+head -n1
+grep "model name" cpuinfo 
+grep "model name" cpuinfo | head -n1
+grep "model name" cpuinfo
+grep "model name" cpuinfo | head -n1
+cd ..
+ls
+cd home
+ls
+cd vagrant
+ls
+cd repogit
+ls
+cd TP_AySO_LucasTissera/
+ls
+grep "model name" cpuinfo | head -n1 >> datos_usuario.txt
+grep "model name" cpuinfo | head -n1 > datos_usuario.txt
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+cat datos_usuario.txt
+echo “Usuario=$(whoami)” > datos_usuario.txt
+cat datos_usuario.txt
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+cat datos_usuario.txt
+git add .
+git status
+git commit -m "feat: Añadiendo informacion de CPU"
+git status
+ls -la
+cd ..
+ls -la
+cd TP_AySO_LucasTissera/
+ls -la
+cat datos_usuario.txt
+ls -la
+cat >> datos_usuario.txt
+cat datos_usuario.txt
+git add .
+git commit -m "feat:Se añadio la informacion del alumno"
+git status
+git reset --soft HEAD~1
+git status
+cat datos_usuario.txt
+grep -v "Alumno" datos_usuario.txt > temp && mv temp datos_usuario.txt
+cat datos_usuario.txt
+grep -v "Division" datos_usuario.txt > temp && mv temp datos_usuario.txt
+grep -v "Turno" datos_usuario.txt > temp && mv temp datos_usuario.txt
+cat datos
+cat datos_usuario.txt
+ls -la
+clear
+ls -la
+pwd
+touch README.md
+ls -la
+cat README.md
+cat > README.md
+cat README.md
+git add README.md datos_usuario.txt
+git status
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+ls -la
+pwd
+cd ..
+pwd
+ls -la
+mkdir -p materia1/uni1 materia1/uni2 materia1/uni3 materia2/uni1 materia2/uni2 materia2/uni3
+ls
+mkdir script_dir_sh
+ls -la
+rmdir script_dir_sh
+ls -la
+cd materia1
+ls
+cd ..
+cd materia2
+ls 
+cd ..
+ls
+ls -la
+touch script_dir.sh
+ls -la
+mkdir -p materia1/uni1 materia1/uni2 materia1/uni3 materia2/uni1 materia2/uni2 materia2/uni3 >> script_dir.sh
+cat script_dir.sh
+chmod +x script_dir.sh
+ls -laa
+cat script_dir.sh
+cat mkdir -p materia1/uni1 materia1/uni2 materia1/uni3 materia2/uni1 materia2/uni2 materia2/uni3 >> script_dir.sh
+cat "mkdir -p materia1/uni1 materia1/uni2 materia1/uni3 materia2/uni1 materia2/uni2 materia2/uni3" >> script_dir.sh
+cat >> script_dir.sh
+cat script_dir.sh
+clear
+ls -la
+cat script_dir.sh
+cat > script_dir.sh
+cat script_dir.sh
+cat > script_dir.sh
+cat script_dir.sh
+cat >> script_dir.sh
+cat script_dir.sh
+chmod +x script_dir.sh
+ls -la
+git add .
+cd repogit
+pwd
+ls
+cd TP_AySO_LucasTissera/
+git status
+git add .
+git status
+git commit -m "ADD: Añadiendo script"
+git push
+history -a
